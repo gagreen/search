@@ -1,7 +1,7 @@
 <table border=1>
 <tr>
-	<td width=50>1위</td>
-	<td width=50>2위</td>
+  <td width=50>1위</td>
+  <td width=50>2위</td>
   <td width=50>3위</td>
   <td width=50>4위</td>
   <td width=50>5위</td>
