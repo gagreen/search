@@ -1,0 +1,13 @@
+CREATE TABLE search(
+  one VARCHAR(20),
+  two VARCHAR(20),
+  three VARCHAR(20),
+  four VARCHAR(20),
+  five VARCHAR(20),
+  six VARCHAR(20),
+  seven VARCHAR(20),
+  eight VARCHAR(20),
+  nine VARCHAR(20),
+  ten VARCHAR(20),
+  t DATETIME DEFAULT SYSDATE
+)
